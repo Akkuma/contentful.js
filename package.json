@@ -88,8 +88,7 @@
     "contentful-resolve-response": "^1.9.4",
     "contentful-sdk-core": "^9.0.1",
     "json-stringify-safe": "^5.0.1",
-    "tslib": "^2.6.0",
-    "type-fest": "^4.0.0"
+    "tslib": "^2.6.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.24.7",
@@ -121,6 +120,7 @@
     "semantic-release": "^25.0.2",
     "size-limit": "^11.1.6",
     "tsd": "^0.31.0",
+    "type-fest": "^5.3.1",
     "typedoc": "^0.26.4",
     "typescript": "^5.6.3",
     "typescript-eslint": "^8.16.0",
